@@ -1,14 +1,16 @@
-# 📑 Citizen
+# 📑 Citizens
 
 {% hint style="danger" %}
 **P2E under development:** We will discuss and plan this step again when the early metaverse processes are complete.
 {% endhint %}
 
-The 1st part of Cardenia City’s ecosystem are citizens. Citizens have a "time" to work. The time each citizen can work is defined by its overall rarity. Stamina is what makes each citizen able to work harder. Each trait rarity has a higher multiplicator of stamina that will give you an advantage in the overall calculation of how much you can work with that citizen.
+The 1st part of Cardenia City’s ecosystem are citizens. Citizens have a "time" to work. The time each citizen can work is defined by its overall rarity. “Stamina” is what makes each citizen able to work harder.
+Each trait rarity has higher multipliers for stamina that will give you an advantage in the overall calculation of how much you can work with that citizen.
 
-Each payday will be calculated by the **total amount of hours worked,** more hours worked = more **BUKZ**
+Each payday will be calculated by the **total amount of hours worked**. 
+More hours worked = more **BUKZ**
 
-Every Citizen has **8 traits with 5 rarities**, each trait rarity will work as a multiply factor in how many hours you Citizen will be able to work.
+Every Citizen has **8 traits with 5 rarities**, each trait rarity will work as a multiply factor in how many hours your Citizen will be able to work.
 
 **The overall calculations are based on a % of rarity that you can find here:** [https://cnft.tools/cardeniacity](https://cnft.tools/cardeniacity)
 
@@ -56,7 +58,7 @@ The sum of the multiplication factor of the eight traits will determine the valu
 
 140 x 3.6 = 504 minutes of work
 
-Basically, rare citizens will be able to work up to 8 hours and 24 minutes a day, while common citizens will be able to work up to 6 hours at most.
+Basically, rare citizens will be able to work up to 8 hours and 24 minutes a day while common citizens will be able to work up to 6 hours at most.
 
 
 

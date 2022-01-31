@@ -1,7 +1,7 @@
 # 📑 Token Allocation
 
 {% hint style="danger" %}
-**P2E under development:** We will discuss and plan this step again when the early metaverse processes are complete.
+**P2E under development:**We are developing the systems needed for P2E mechanics before releasing  these in-game mechanics. 
 {% endhint %}
 
 

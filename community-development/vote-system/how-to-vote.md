@@ -32,11 +32,11 @@ After confirming and releasing the dApp's access to view your wallet, you should
 
 **In Case You Sent the Wrong Nami Address**
 
-Some users have more than one wallet address in their Nami Wallet. In case you sent the wrong address this is what you do: Clear up your cache (ctrl f5 or delete cookies), click on connect, check if the wallet connected when permission prompt showed. It is the same that you have an asset and sign in.
+Some users have more than one wallet address in their Nami Wallet. In case you sent the wrong address this is what you do: Clear up your cache (ctrl f5 or delete cookies), click on connect, check if the wallet connected when permission prompts again. Just like the first time,  you should have the same prompt asking you to connect your Namie wallet.  
 
-You can also ask for permissions one more time by resetting the allow dApps in your wallet
+You can also ask for permissions one more time by resetting the allow dApps in your wallet.
 
-Open your wallet, click on the avatar, go to **Settings**, **Whitelisted Sites** and remove any related to **Cardenia City** domain.
+Open your wallet, click on the avatar, go to **Settings**, **Whitelisted Sites** and remove any related to the **Cardenia City** domain.
 
 #### Claim
 

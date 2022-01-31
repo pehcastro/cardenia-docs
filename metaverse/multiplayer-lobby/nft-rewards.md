@@ -1,7 +1,7 @@
 # 📑 NFT Rewards
 
 {% hint style="danger" %}
-**Function under development:** This feature is under development and new changes to the mechanics may appear over time, if you have any further questions, please publicly ask a question on discord.
+**Function under development:** This feature is under development and new changes to the mechanics may appear over time. If you have any further questions, please ask questions on our discord. 
 {% endhint %}
 
 CNFT rewards will be made in the form of in-game minting using our in-game currency, **Cardenia Gold**. **Cardenia Gold** will only be used within the game and cannot be transferred from one account to another. In addition, Cardenia Gold will work in a mirrored way with our servers to better secure players data.
