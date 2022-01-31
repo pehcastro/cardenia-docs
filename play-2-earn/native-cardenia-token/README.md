@@ -12,8 +12,6 @@ Developed together for the community, the **native Cardenia token** is one of th
 
 To understand how we want to deliver and work with our token, please read [token-allocation.md](token-allocation.md "mention")
 
-If you want to know more about how we will **provide liquidity** read [Broken link](broken-reference "mention")
-
 And if you have a Citizen (Cardenian CNFT) you will be able to claim <mark style="color:red;">**1k token per citizen**</mark> as a free airdrop, read it into [airdrop.md](airdrop.md "mention")
 
 ### Entering Project
