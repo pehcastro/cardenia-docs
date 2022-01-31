@@ -29,7 +29,3 @@ The houses will have a furniture allocation system, each type of house has a dif
 The work buildings will be environments integrated with the Play 2 Earn model that will be introduced to Cardenia in the future.  This entire ecosystem will be available for interactions in a multiplayer-based city simulation. Players will inteact with a lobby in a top down 2D city view .
 
 Cardenia City will be a place for everyone.
-
-
-
-``
