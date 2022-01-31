@@ -1,2 +1,2 @@
-# 🔗  Policy Id
+# Policy Id
 

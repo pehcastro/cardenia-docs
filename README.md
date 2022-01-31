@@ -4,7 +4,7 @@ description: >-
   creating a P2E city based game set in the metaverse.
 ---
 
-# 🌇 Cardenia City
+# Cardenia City
 
 
 

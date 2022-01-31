@@ -1,4 +1,4 @@
-# 📑 Airdrop
+# Airdrop
 
 {% hint style="info" %}
 **We will let you know on all our platforms days in advance about the epochs from which you can get your tokens.**

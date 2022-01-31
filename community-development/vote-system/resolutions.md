@@ -1,4 +1,4 @@
-# 📑 Resolutions
+# Resolutions
 
 In order to create realistic proposals, voting options come from eternal team decisions and community suggestions. This is in order to prevent unrealistic or inappropriate goals being set. Initially, you will be able to request suggestions within our discord. We will leave an explicit channel (#suggestions) on our discord, and this channel can be used together to guide what we can put to a vote. We will use our internal votes as a team to select and create voting polls. From this process, we hope to create realistic voting options for future project goals.
 

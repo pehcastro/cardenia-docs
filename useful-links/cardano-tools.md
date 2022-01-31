@@ -1,2 +1,2 @@
-# 🔗  Cardano Tools
+# Cardano Tools
 

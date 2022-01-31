@@ -2,10 +2,10 @@
 description: Conheça Cardenia City
 ---
 
-# 📑 The City
+# The City
 
 {% hint style="danger" %}
-**Function under development:**This feature is under development and new changes to the mechanics may appear over time. If you have any further questions, please ask questions on our discord. 
+\*\*Function under development:\*\*This feature is under development and new changes to the mechanics may appear over time. If you have any further questions, please ask questions on our discord.
 {% endhint %}
 
 ## City Planning
@@ -24,8 +24,8 @@ Private rooms may give life to new mafias, working classes, and united groups th
 
 The mini-games portal is the game's in-game currency farm environment; these currencies can be used to open collections crates.
 
-The houses will have a furniture allocation system, each type of house has a different structure and size, this will provide the freedom for each player to build and modify their own house the way they want.&#x20;
+The houses will have a furniture allocation system, each type of house has a different structure and size, this will provide the freedom for each player to build and modify their own house the way they want.
 
-The work buildings will be environments integrated with the Play 2 Earn model that will be introduced to Cardenia in the future.  This entire ecosystem will be available for interactions in a multiplayer-based city simulation. Players will inteact with a lobby in a top down 2D city view .
+The work buildings will be environments integrated with the Play 2 Earn model that will be introduced to Cardenia in the future. This entire ecosystem will be available for interactions in a multiplayer-based city simulation. Players will inteact with a lobby in a top down 2D city view .
 
 Cardenia City will be a place for everyone.

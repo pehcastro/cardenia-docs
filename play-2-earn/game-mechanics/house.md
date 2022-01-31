@@ -1,4 +1,4 @@
-# 📑 House
+# House
 
 {% hint style="danger" %}
 **P2E under developmentt:** We will discuss and plan this step again when the early metaverse processes are complete.

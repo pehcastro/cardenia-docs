@@ -37,7 +37,8 @@
 ## 🛡 OFFICIAL CHANNEL
 
 * [Contact Us](official-channel/contact-us.md)
-* [Investors & Partners](official-channel/investors-and-partners.md)
+* [Investors & Partners](official-channel/investors-and-partners/README.md)
+  * [Livemint NFT](official-channel/investors-and-partners/livemint-nft.md)
 * [Team](official-channel/team.md)
 * [🙋FAQ](official-channel/faq.md)
 

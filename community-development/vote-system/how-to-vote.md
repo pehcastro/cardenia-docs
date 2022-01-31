@@ -2,7 +2,7 @@
 description: Prático rápido e fácil
 ---
 
-# 📑 How to vote
+# How to vote
 
 ### Step 1 - Nami Wallet
 
@@ -14,7 +14,7 @@ Next, start your wallet using the "Receive" button, there you will find an addre
 
 If you are new to the project and don't have a citizen, consider minting it directly from the [cardenia.city/buy](https://cardenia.city/buy) website. 1 citizen can be minted for just 10 ADA. Newly minted citizens have a chance of being rare.
 
-If you are having any issues with step 1 or any of the other steps below, please visit us at the official discord and ask for help.&#x20;
+If you are having any issues with step 1 or any of the other steps below, please visit us at the official discord and ask for help.
 
 **Our official Discord link for Cardenia City:** https://discord.gg/cShatyRGku
 
@@ -22,9 +22,9 @@ If you are having any issues with step 1 or any of the other steps below, please
 
 #### Connect
 
-Access the voting dApp at https://votesystem.cardenia.city/.&#x20;
+Access the voting dApp at https://votesystem.cardenia.city/.
 
-In the upper right corner, you will find the "Connect" button. Click on it to start the process of connecting your Nami Wallet.&#x20;
+In the upper right corner, you will find the "Connect" button. Click on it to start the process of connecting your Nami Wallet.
 
 The necessary request by the dApp is to have the right to view and scan your wallet to find your Assets, we do this by identifying our Policy ID among your CNFTs, for each CNFT of our Policy ID in your wallet, 1 ticket will be added after using the Claim button.
 
@@ -32,7 +32,7 @@ After confirming and releasing the dApp's access to view your wallet, you should
 
 **In Case You Sent the Wrong Nami Address**
 
-Some users have more than one wallet address in their Nami Wallet. In case you sent the wrong address this is what you do: Clear up your cache (ctrl f5 or delete cookies), click on connect, check if the wallet connected when permission prompts again. Just like the first time,  you should have the same prompt asking you to connect your Namie wallet.  
+Some users have more than one wallet address in their Nami Wallet. In case you sent the wrong address this is what you do: Clear up your cache (ctrl f5 or delete cookies), click on connect, check if the wallet connected when permission prompts again. Just like the first time, you should have the same prompt asking you to connect your Namie wallet.
 
 You can also ask for permissions one more time by resetting the allow dApps in your wallet.
 
@@ -43,7 +43,7 @@ Open your wallet, click on the avatar, go to **Settings**, **Whitelisted Sites**
 Use the Claim button to redeem your voting tickets, you will be able to view each ticket redeemed in the upper right corner in number format.
 
 \
-**All tickets referring to citizens in your wallet will be redeemed at once**&#x20;
+**All tickets referring to citizens in your wallet will be redeemed at once**
 
 It is not possible to redeem more than one ticket for the same citizen.
 
@@ -59,17 +59,17 @@ Voting will be carried out according to the interest of developers and the commu
 
 #### Vote
 
-To vote you need to click on the "Start Voting" button, a second page will be available, where you can choose which option to vote for.&#x20;
+To vote you need to click on the "Start Voting" button, a second page will be available, where you can choose which option to vote for.
 
 You can select an option and use 1 or all of your tickets at once. After voting, a confirmation page will be available indicating which option you voted for.
 
-****
+***
 
 ### Step 4 - Finishing
 
 When the voting is finished, on the homepage of the voting dApp, you will see the results.
 
-&#x20;Also, you can see voting results on **our official Discord**. https://discord.gg/cShatyRGku
+Also, you can see voting results on **our official Discord**. https://discord.gg/cShatyRGku
 
 \
 Depending on the type of vote and the choice made, an announcement will be made on our discord to indicate the next steps on how we will apply what was voted on in the project.

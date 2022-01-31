@@ -1,4 +1,4 @@
-# 📑 Secondary Markets
+# Secondary Markets
 
 ### Citizens Policy
 
