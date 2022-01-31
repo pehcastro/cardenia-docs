@@ -5,10 +5,10 @@ description: Conheça Cardenia City
 # 📑 The City
 
 {% hint style="danger" %}
-**Function under development:** This feature is under development and new changes to the mechanics may appear over time, if you have any further questions, please publicly ask a question on discord.
+**Function under development:**This feature is under development and new changes to the mechanics may appear over time. If you have any further questions, please ask questions on our discord. 
 {% endhint %}
 
-## Structure
+## City Planning
 
 The city plan is based on the needs of citizens and the general interest of developers and players. In the city, players will find different and mixed neighborhoods that will contain:
 
@@ -20,15 +20,15 @@ Event buildings can be rented by the community for private events.
 
 Stripclubs will be public environments where you can have fun and chat with your friends in Cardenia.
 
-Private rooms will give life to new mafias, working classes, and united groups that will transform the city. To what? We do not know yet.
+Private rooms may give life to new mafias, working classes, and united groups that will transform the city. To what? We do not know yet.
 
 The mini-games portal is the game's in-game currency farm environment; these currencies can be used to open collections crates.
 
 The houses will have a furniture allocation system, each type of house has a different structure and size, this will provide the freedom for each player to build and modify their own house the way they want.&#x20;
 
-The work buildings will be environments integrated with the Play 2 Earn model that will be introduced to Cardenia in the future. This entire ecosystem will be available for interactions in a multiplayer-based game.
+The work buildings will be environments integrated with the Play 2 Earn model that will be introduced to Cardenia in the future.  This entire ecosystem will be available for interactions in a multiplayer-based city simulation. Players will inteact with a lobby in a top down 2D city view .
 
-With all that structure in a 2D based lobby game on a top down view, Cardenia City will be a place for everyone.
+Cardenia City will be a place for everyone.
 
 
 
