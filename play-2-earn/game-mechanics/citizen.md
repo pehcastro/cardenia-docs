@@ -1,4 +1,4 @@
-# 📑 Citizen
+# 📑 Citizens
 
 {% hint style="danger" %}
 **P2E under development:** We will discuss and plan this step again when the early metaverse processes are complete.
