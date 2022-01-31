@@ -16,5 +16,17 @@ If you want to know more about how we will **provide liquidity** read [Broken li
 
 And if you have a Citizen (Cardenian CNFT) you will be able to claim <mark style="color:red;">**1k token per citizen**</mark> as a free airdrop, read it into [airdrop.md](airdrop.md "mention")
 
+### Entering Project
 
+![](../../.gitbook/assets/basic.png)
+
+
+
+### NFTs Ecosystem
+
+![](<../../.gitbook/assets/nft usability.png>)
+
+### Token and CG Usability
+
+![](<../../.gitbook/assets/token usability.png>)
 
