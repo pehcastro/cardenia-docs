@@ -1,7 +1,7 @@
 # 📑 Mini-Games
 
 {% hint style="danger" %}
-**Function under development:** This feature is under development and new changes to the mechanics may appear over time, if you have any further questions, please publicly ask a question on discord.
+**Function under development:** This feature is under development and new changes to the mechanics may appear over time, if you have any further questions, please publicly ask a question on discord #chat.
 {% endhint %}
 
 Mini-games are a fun way to use your assets and participate in single-player or multiplayer games. Initially, they work as an exchange with the community, but we are planning to provide players with an internal currency that can buy boxes of collectibles for your home. <mark style="color:red;">**Some collectables will be pure collectables as others may offer in game or metaverse functionality**</mark>. Between having fun with friends and being at home, mini-games are a different way to socialize and interact with friends and other players.
