@@ -5,7 +5,7 @@
 {% endhint %}
 
 The 1st part of Cardenia City’s ecosystem are citizens. Citizens have a "time" to work. The time each citizen can work is defined by its overall rarity. “Stamina” is what makes each citizen able to work harder.
-Each trait rarity has higher multipliers of stamina that will give you an advantage in the overall calculation of how much you can work with that citizen.
+Each trait rarity has higher multipliers for stamina that will give you an advantage in the overall calculation of how much you can work with that citizen.
 
 Each payday will be calculated by the **total amount of hours worked**. 
 More hours worked = more **BUKZ**
