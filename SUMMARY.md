@@ -12,7 +12,7 @@
 
 * [➡️ Multiplayer Lobby](metaverse/multiplayer-lobby/README.md)
   * [The City](metaverse/multiplayer-lobby/the-city.md)
-  * [Housing](metaverse/multiplayer-lobby/housing.md)
+  * [Property](metaverse/multiplayer-lobby/housing.md)
   * [Mini-Games](metaverse/multiplayer-lobby/mini-games.md)
   * [NFT Rewards](metaverse/multiplayer-lobby/nft-rewards.md)
 * [➡️ In-game Market](metaverse/in-game-market/README.md)
@@ -25,9 +25,9 @@
   * [Airdrop](play-2-earn/native-cardenia-token/airdrop.md)
   * [Stake](play-2-earn/native-cardenia-token/stake.md)
 * [➡️ Game Mechanics](play-2-earn/game-mechanics/README.md)
-  * [Citizen](play-2-earn/game-mechanics/citizen.md)
-  * [House](play-2-earn/game-mechanics/house.md)
-  * [Profession](play-2-earn/game-mechanics/profession.md)
+  * [Citizens](play-2-earn/game-mechanics/citizen.md)
+  * [🏡Property](play-2-earn/game-mechanics/house.md)
+  * [🎓Professions](play-2-earn/game-mechanics/profession.md)
 
 ## 📄 Dev Logs
 
