@@ -16,7 +16,7 @@ The city plan is based on the needs of citizens and the general interest of deve
 
 This structure will be able to nurture the environment we want to build in Cardenia City. Public buildings are used by the community as interactive menus to discover, learn, create and live in Cardenia City on a regular basis.
 
-![](../../.gitbook/assets/ezgif.com-gif-maker.webp)
+![Walking over the city TEST AND DEBUG FOOTAGE](../../.gitbook/assets/ezgif.com-gif-maker.webp)
 
 Event buildings can be rented by the community for private events.
 
@@ -28,6 +28,6 @@ The mini-games portal is the game's in-game currency farm environment; these cur
 
 The houses will have a furniture allocation system, each type of house has a different structure and size, this will provide the freedom for each player to build and modify their own house the way they want.
 
-The work buildings will be environments integrated with the Play 2 Earn model that will be introduced to Cardenia in the future. This entire ecosystem will be available for interactions in a multiplayer-based city simulation. Players will inteact with a lobby in a top down 2D city view .
+The work buildings will be environments integrated with the Play 2 Earn model that will be introduced to Cardenia in the future. This entire ecosystem will be available for interactions in a multiplayer-based city simulation. Players will interact with a lobby in a top down 2D city view.
 
 Cardenia City will be a place for everyone.
