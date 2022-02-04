@@ -54,7 +54,7 @@ The P2E mechanics for the city simulation work similar to an idle game. Unlike t
 
 **Professions:** Job cards that determine the multiplied value you will receive.
 
-These 3 CNFTS will give you the opportunity to work, relax and be part of the city. All work performed is accumulated and a daily amount is paid to each citizen.
+These 3 CNFTs will give you the opportunity to work, relax and be part of the city. All work performed is accumulated and a daily amount is paid to each citizen.
 Note: At this time, there are planned air drops for Candenia City CNFTs holders.  
 
 Please read these sections of the white paper for more planned details.
