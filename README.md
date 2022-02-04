@@ -46,17 +46,23 @@ In addition to the entire public structure, a housing and customization system t
 {% endtab %}
 
 {% tab title="Play-to-Earn" %}
-A game mode where you earn for playing, most of the system works just like generic idle games you already know, but to be able to play and participate you need to have the necessary within the city's ecosystem, that is:
+The P2E mechanics for the city simulation work similar to an idle game. Unlike the mini-games, a player will need 3 types of CNFTs to participate for the simulation P2E game mechanics: 
 
-**Citizens:** Total stamina values for hours of work
+**Citizens:** Total stamina values for hours of work.
 
-**House:** The properties that will be up for voting in the next NFT drop
+**Homes or Structures:** The properties that will be up for voting in the next CNFT drop. 
 
-**Professions:** Job cards that determine the multiplied value you will receive
+**Professions:** Job cards that determine the multiplied value you will receive.
 
+The set of these 3 CNFTS will give you the opportunity to work, relax and be part of the city. All work performed is accumulated and a daily amount is paid to each citizen.
+Note: At this time, there are planned air drops for Candenia City CNFTs holders.  
 
+Please read these sections of the white paper for more planned details.
 
-The set of 3 NFTS will give you the opportunity to work, relax and be part of the city. All work performed is accumulated and a daily amount is paid to each citizen.
+https://docs.cardenia.city/play-2-earn/game-mechanics
+
+https://docs.cardenia.city/metaverse/multiplayer-lobby
+
 {% endtab %}
 {% endtabs %}
 
