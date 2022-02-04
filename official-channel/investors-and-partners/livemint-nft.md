@@ -1,4 +1,4 @@
-# Livemint NFT
+# 🔗 Livemint NFT
 
 ![livemint.com](../../.gitbook/assets/logo-new.png)
 

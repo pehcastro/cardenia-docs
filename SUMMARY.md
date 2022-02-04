@@ -21,7 +21,7 @@
 ## 💵 Play 2 Earn
 
 * [➡️ Native Cardenia Token](play-2-earn/native-cardenia-token/README.md)
-  * [💰Token Allocation](play-2-earn/native-cardenia-token/token-allocation.md)
+  * [��Token Allocation](play-2-earn/native-cardenia-token/token-allocation.md)
   * [🛬Airdrop](play-2-earn/native-cardenia-token/airdrop.md)
   * [🥩Stake](play-2-earn/native-cardenia-token/stake.md)
 * [➡️ Game Mechanics](play-2-earn/game-mechanics/README.md)
@@ -32,21 +32,19 @@
 ## 📄 Dev Logs
 
 * [➡️ Updates](dev-logs/updates.md)
-* [🗺️Roadmap](dev-logs/roadmap.md)
+* [📍Roadmap](dev-logs/roadmap.md)
 
 ## 🛡 OFFICIAL CHANNEL
 
 * [📞Contact Us](official-channel/contact-us/README.md)
-  * [Discord](https://discord.gg/mTjZPqfH)
-  * [Twitter](https://twitter.com/cardeniacnft)
+  * [🔗 Discord](https://discord.gg/mTjZPqfH)
+  * [🔗 Twitter](https://twitter.com/cardeniacnft)
 * [✨Investors & Partners](official-channel/investors-and-partners/README.md)
-  * [🖥️Livemint NFT](official-channel/investors-and-partners/livemint-nft.md)
+  * [🔗 Livemint NFT](official-channel/investors-and-partners/livemint-nft.md)
 * [🎮Team](official-channel/team.md)
 * [🙋FAQ](official-channel/faq.md)
 
-## 💡 USEFUL LINKS
+## 💡 USEFUL CONTENT
 
-* [Cardenia](useful-links/cardenia.md)
-* [Policy Id](useful-links/policy-id.md)
-* [Markets](useful-links/markets.md)
-* [🛠️Cardano Tools](useful-links/cardano-tools.md)
+* [🛠️Cardano Tools](useful-content/cardano-tools.md)
+* [🚨 Policy Id](useful-content/policy-id.md)
