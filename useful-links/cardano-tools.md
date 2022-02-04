@@ -1,10 +1,10 @@
 # 🛠️Cardano Tools
 
-👛 Cardano Wallets
+### **👛 Cardano Wallets**
 
-• Daedalus (recommended): https://daedaluswallet.io/&#x20;
+• Daedalus: https://daedaluswallet.io/&#x20;
 
-• Nami: https://namiwallet.io/&#x20;
+• Nami: https://namiwallet.io/ **(recommended for Cardenia dApps)**
 
 • Yoroi: https://yoroi-wallet.com/&#x20;
 
@@ -12,7 +12,9 @@
 
 • AdaLite: https://adalite.io/
 
-🤝 Marketplaces
+
+
+### **🤝 Marketplaces**
 
 • CNFT.io: https://cnft.io/&#x20;
 
@@ -26,7 +28,9 @@
 
 • Artano: https://artano.io/
 
-💻 Ranking Websites
+
+
+### **💻 Ranking Websites**
 
 • Cnft Tools: https://cnft.tools/&#x20;
 
@@ -38,7 +42,7 @@
 
 
 
-📈 Analytics & Transactions
+### 📈 Analytics & Transactions
 
 • OpenCNFT: https://opencnft.io/&#x20;
 
@@ -56,7 +60,7 @@
 
 
 
-📆 CNFT Calendars
+### 📆 CNFT Calendars
 
 • Wencnft: https://www.wencnft.com/&#x20;
 
@@ -64,13 +68,9 @@
 
 • CNFT Hub: https://cnfthub.io/&#x20;
 
-🐦 Social tools
+### 🐦 Social tools
 
 • Reddit: https://www.reddit.com/r/CNFT/
-
-🎯 Sniping tools
-
-• CNFT Predator: https://www.cnftpredator.io/
 
 
 
