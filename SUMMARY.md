@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌇 Cardenia City](README.md)
+* [🌇 Cardenia City - Whitepaper](README.md)
 
 ## 🗳️ Community Development
 

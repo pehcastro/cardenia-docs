@@ -1,10 +1,10 @@
 ---
 description: >-
-  Cardenia City is a community driven project on Cardano with the goal of
-  creating a P2E city based game set in the metaverse.
+  Community driven project on Cardano with the goal of creating a P2E city based
+  game set in the metaverse.
 ---
 
-# 🌇 Cardenia City
+# 🌇 Cardenia City - Whitepaper
 
 
 
