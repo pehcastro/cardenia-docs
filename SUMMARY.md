@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cardenia City](README.md)
+* [🌇 Cardenia City](README.md)
 
 ## 🗳️ Community Development
 
@@ -36,7 +36,9 @@
 
 ## 🛡 OFFICIAL CHANNEL
 
-* [📞Contact Us](official-channel/contact-us.md)
+* [📞Contact Us](official-channel/contact-us/README.md)
+  * [Discord](https://discord.gg/mTjZPqfH)
+  * [Twitter](https://twitter.com/cardeniacnft)
 * [✨Investors & Partners](official-channel/investors-and-partners/README.md)
   * [🖥️Livemint NFT](official-channel/investors-and-partners/livemint-nft.md)
 * [🎮Team](official-channel/team.md)
