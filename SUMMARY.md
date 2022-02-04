@@ -21,7 +21,7 @@
 ## 💵 Play 2 Earn
 
 * [➡️ Native Cardenia Token](play-2-earn/native-cardenia-token/README.md)
-  * [��Token Allocation](play-2-earn/native-cardenia-token/token-allocation.md)
+  * [📊Token Allocation](play-2-earn/native-cardenia-token/token-allocation.md)
   * [🛬Airdrop](play-2-earn/native-cardenia-token/airdrop.md)
   * [🥩Stake](play-2-earn/native-cardenia-token/stake.md)
 * [➡️ Game Mechanics](play-2-earn/game-mechanics/README.md)
