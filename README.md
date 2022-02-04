@@ -61,9 +61,9 @@ Note: At this time, there are planned air drops for Candenia City CNFTs holders.
 
 Please read these sections of the white paper for more planned details:
 
-https://docs.cardenia.city/play-2-earn/game-mechanics
+[game-mechanics.md](game-mechanics.md "mention")
 
-https://docs.cardenia.city/metaverse/multiplayer-lobby
+[multiplayer-lobby.md](multiplayer-lobby.md "mention")
 
 {% endtab %}
 {% endtabs %}
