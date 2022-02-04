@@ -2,7 +2,7 @@
 description: Conheça Cardenia City
 ---
 
-# The City
+# 🌃The City
 
 {% hint style="danger" %}
 \*\*Function under development:\*\*This feature is under development and new changes to the mechanics may appear over time. If you have any further questions, please ask questions on our discord.
@@ -15,6 +15,8 @@ The city plan is based on the needs of citizens and the general interest of deve
 #### <mark style="color:orange;">**Public buildings, Venues for events, Stripclubs, Private rooms, A mini-game portal, Houses, Work buildings, and Public parks**</mark>
 
 This structure will be able to nurture the environment we want to build in Cardenia City. Public buildings are used by the community as interactive menus to discover, learn, create and live in Cardenia City on a regular basis.
+
+![](../../.gitbook/assets/ezgif.com-gif-maker.webp)
 
 Event buildings can be rented by the community for private events.
 

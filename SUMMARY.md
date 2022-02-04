@@ -44,7 +44,7 @@
 
 ## 💡 USEFUL LINKS
 
-* [🌃 Cardenia](useful-links/cardenia.md)
-* [🆔 Policy Id](useful-links/policy-id.md)
-* [💸 Markets](useful-links/markets.md)
+* [Cardenia](useful-links/cardenia.md)
+* [Policy Id](useful-links/policy-id.md)
+* [Markets](useful-links/markets.md)
 * [🛠️Cardano Tools](useful-links/cardano-tools.md)

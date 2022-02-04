@@ -1,7 +1,7 @@
-# Token Allocation
+# 💰Token Allocation
 
 {% hint style="danger" %}
-\*\*P2E under development:\*\*We are developing the systems needed for P2E mechanics before releasing these in-game mechanics.
+**P2E under development:**We are developing the systems needed for P2E mechanics before releasing these in-game mechanics.
 {% endhint %}
 
 |                                      $BUKZ |                                           Amount | Percentage                                |                                            Delivery |
@@ -17,3 +17,11 @@
 |                               **RESERVES** |                                       15.000.000 | 15%                                       |                                           Locked 1y |
 
 ![](../../.gitbook/assets/token-allocation-final.png)
+
+### **Project Wallets**
+
+We will update the allocation wallets for the BUKZ Token here as a form of transparency with our community.
+
+**Original mint wallet:**&#x20;
+
+`addr1q848tuhl9ztzhsth4q3e78e2rrm09nxhxpr37t8uwd2hahtf4k6ul4nh7ueff676e69qclnxpu4dqhjamp79v8ctqtuq7p83ug`
