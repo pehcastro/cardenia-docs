@@ -5,7 +5,7 @@ description: Conheça Cardenia City
 # 🌃The City
 
 {% hint style="danger" %}
-\*\*Function under development:\*\*This feature is under development and new changes to the mechanics may appear over time. If you have any further questions, please ask questions on our discord.
+**Function under development:** This feature is under development and new changes to the mechanics may appear over time. If you have any further questions, please ask questions on our discord.
 {% endhint %}
 
 ## City Planning
