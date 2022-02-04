@@ -32,7 +32,7 @@
 ## 📄 Dev Logs
 
 * [➡️ Updates](dev-logs/updates.md)
-* [📍Roadmap](dev-logs/roadmap.md)
+* [📍   Roadmap](dev-logs/roadmap.md)
 
 ## 🛡 OFFICIAL CHANNEL
 
