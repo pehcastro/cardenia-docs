@@ -13,10 +13,10 @@ description: >-
 ## Introduction
 
 {% hint style="info" %}
-**Early Concept:** All game-design systems, tokenomics and metaverse mechanics are under development and being revised daily. Thus, this whitepaper will be updated during our development journey, this is the latest and current version of our plans**.**
+**Early Concept:** All game-design systems, tokenomics and metaverse mechanics are being developed. Thus, this whitepaper may change after major project udpates. This is the latest and current version of our plans**.**
 {% endhint %}
 
-The lore, Cardenia is a lost city on the Cardano blockchain with a vast population, here you find normal humans, minions and zombies. Refugees from a statue, they use their identities to develop and improve the city they have chosen for themselves.
+The lore, Cardenia is a lost city on the Cardano blockchain with a vast population, here you find humans, minions and zombies.  From a fallen world, refugees use their professions to develop, maintain and improve the city they have chosen for themselves.
 
 The city is made up of separate areas that were developed with the well-being of each citizen in mind. There you will find the city center, the residential district, residential condominiums, the commercial center buildings and the peripheral constructions of the city of Cardenia.
 
