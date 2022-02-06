@@ -24,11 +24,11 @@ Cardenian holders will have free 2D environments to meet friends, hold public ev
 
 ## Basic Concept
 
-The project is developed by the community together with the team of developers, there are 2 paths to be followed and through them, we will develop the city of Cardenia together, we will use the voting system to guide how citizens want the city to be.
+The project is developed by the community together with the team of developers. There are 2 paths to be followed and through them, we will develop the city of Cardenia together. We will use the voting system to guide how we will devolop Cardenia City. 
 
-Once inside Cardenia you will have the freedom to be in a metaverse, play mini-games to farm NFTs, or put your citizens to work in a Player-To-Earn model where you can earn Cardenia $BUKZ tokens
+Once inside Cardenia you will have the freedom to be in a metaverse, play mini-games to farm NFTs, or put your citizens to work in a play-to-earn model where you can earn Cardenia $BUKZ tokens
 
-These tokens will be available on Cardano's DEX, where you can SWAP to other tokens or ADA.
+These tokens will be available on Cardano DEXes, where you can SWAP to other tokens or ADA. There is no particiular day There is no day set yet when we will have our coin officially on a DEX for trade.
 
 To enter Cardenia you will need to have a citizen NFT, this NFT must be in your Nami Wallet, linked to the browser on a computer or notebook to create you will be able to find a lobby or a multiplayer chat where you will have the freedom to interact with other citizens
 
