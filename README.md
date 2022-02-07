@@ -70,16 +70,16 @@ Please read these sections of the white paper for more planned details:
 
 ## Development
 
-We will be developing and adapting whatever is necessary to launch the project as a whole, so open testing and community members can join in to give us early feedback on Cardenia.
+As part of our development process, open testing and community members can give us feedback on Cardenia City at any time via our discord and voting system.
 
-In order of development, we initially want::
+Our planned development goals:
 
 * Create a multiplayer lobby&#x20;
 * Develop the housing system
 * Launch housable assets as NFTs (chairs, desks, tables etc)
-* Make a open AIRDROP of $BUKZ for citizen holders&#x20;
+* Make an open AIRDROP of $BUKZ for citizen holders&#x20;
 * Insert other mini-games that can be played to earn in-game coins and mint NFT collections from drop crates
-* Bring a in-game market in order to direct exchange your collections with other citizens
+* Bring an in-game market in order to direct exchange your collections with other citizens
 * Provide a means to create, through public buildings, private events held by community members (shows, festivals, meetings and other activities of the kind)
 * Develop the P2E model to redeem tokens
 * Develop the STAKE model to redeem tokens using NFTs
