@@ -40,9 +40,7 @@ The Metaverse of Cardenia is a simulation of a city in 2d pixel art. A we will b
 
 Public buildings with information about the city, mini-games, p2e, events, music stages, stripclubs and private rooms for mafias, gangs and professions will be in the city as a place to chill and hang out with friends
 
-
-
-In addition to the entire public structure, a housing and customization system that can be integrated with play-to-earn. This means that your home, the decoration and the quality of the items you have here can complement your citizen's rest time when he is at the end of his workday.
+In addition to the entire public structures, there will also be customizable housing and other properties that can be integrated with future play-to-earn mechanics. 
 {% endtab %}
 
 {% tab title="Play-to-Earn" %}
