@@ -30,11 +30,11 @@ Once inside Cardenia you will have the freedom to be in a metaverse, play mini-g
 
 These tokens will be available on Cardano DEXes, where you can SWAP to other tokens or ADA. There is no particiular day There is no day set yet when we will have our coin officially on a DEX for trade.
 
-To enter Cardenia you will need to have a citizen NFT, this NFT must be in your Nami Wallet, linked to the browser on a computer or notebook to create you will be able to find a lobby or a multiplayer chat where you will have the freedom to interact with other citizens
+To enter Cardenia you will need to have a citizen CNFT. This CNFT must be in your Nami Wallet, linked to a browser on a computer or notebook. We prefer Brave, but Nami Wallet also supports Google Crhome and Microsoft's Edge browsers. This year, holders will be able to find a lobby or a multiplayer chat where they will have the freedom to interact with other Cardenia City players. 
 
 {% tabs %}
 {% tab title="Metaverse" %}
-The Metaverse of Cardenia is a simulation of a city in 2d pixel art, a map that will be built through votes will be the place where new citizens will be able to put their nfts to use.
+The Metaverse of Cardenia is a simulation of a city in 2d pixel art. A we will build through votes placed where Cadenia City holder will be able to put their CNFTs to use.
 
 
 
